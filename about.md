@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is as of now mostly for recording my daily life in South Korea, planning to escape the frame bonding me to whatever old and outdated in my life. 
 
-### More Information
+As a *full-stack software engineer* I've experienced several professional projects at companies for 3 years. I've also figured that understanding technical details must play a fundamental role for every engineer.
 
-A place to include any other types of information that you'd like to include about yourself.
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[twkiiim@gmail.com](mailto:twkiiim@gmail.com)
