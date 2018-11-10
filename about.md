@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This blog is as of now mostly for recording my daily life in South Korea, planning to escape the frame bonding me to whatever old and outdated in my life. 
+안녕하세요, 디지털 노매딩을 꿈꾸며 살아가는 한 청년의 블로그에 방문해주셔서 감사합니다.
 
-As a *full-stack software engineer* I've experienced several professional projects at companies for 3 years. I've also figured that understanding technical details must play a fundamental role for every engineer.
+28살의 늦은 나이에 전역해서 부산에서 앱개발 전문 프리랜서로 먹고살고 있습니다만, 1년 안에 다양한 스타트업을 시도해볼 원대한 계획(만)을 갖고 있습니다ㅎㅎ 카페나 여행, 부드러운 느낌의 재즈를 좋아합니다. (TMI 시작.) 고양이는 원래 별로 안좋아했는데, 고양이를 너무 좋아해서 길에서 우연히 마주친 고양이를 위해 편의점에 들러 참치캔을 사다 먹이기까지 했던 전여친 덕분에 지금은 고양이가 너무 사랑스럽네요^^ (TMI 끝.)
+
+
+혹시 제 블로그를 읽으시고 나누고 싶은 대화가 있다면 언제든지 편하게 연락주세요 :)
+
+오늘도 좋은하루 되세요~!^^
 
 
 
