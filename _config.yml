@@ -17,18 +17,11 @@ avatar: /images/blog-profile-image.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   instagram: twkiiim
   facebook: profile.php?id=100009511120124
   youtube: channel/UC8aeZEMca1gZH6G4rzt4VkQ # channel/<your_long_string> or user/<user-name>
-  pinterest:
-  flickr:
-  github: twkiiim
-  linkedin: twkiiim
+  linkedin: taewoo-kim-5bb24217b
   rss: rss # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  googleplus: # anything in your profile username that comes after plus.google.com/
   email: twkiiim@gmail.com
 
 
