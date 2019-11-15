@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-도쿄 아키하바라에 있는 IT회사의 AWS 사업부의 솔루션즈 아키텍트로 근무하고 있습니다. (2019년 6월 현재)
+도쿄에 살고 있는 IT 엔지니어입니다.
+AWS / GraphQL / Serverless / Deep Learning / Chaos Engineering / DevOps Engineering 등 굉장히 다양하고 폭넓은 주제에 대해 관심이 많습니다.
+비기술분야로는 소자본 창업, 앱기획, 디자인, 카페, 공원, 재즈를 좋아합니다.
 
 
 ### Contact me
