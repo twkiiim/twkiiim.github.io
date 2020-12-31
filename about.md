@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-도쿄에 살고 있는 IT 엔지니어입니다.
-AWS / GraphQL / Serverless / Deep Learning / Chaos Engineering / DevOps Engineering 등 굉장히 다양하고 폭넓은 주제에 대해 관심이 많습니다.
-비기술분야로는 소자본 창업, 앱기획, 디자인, 카페, 공원, 재즈를 좋아합니다.
+주로 기술과 관련된 포스팅들을 작성하는 공간입니다. 
+
+IT 기술과 관련되었다면 글의 주제에 제한을 딱히 두고 있지는 않지만, 주로 클라우드 및 핀테크 관련 포스팅을 작성할 예정입니다. 
 
 
-### Contact me
-
-[twkiiim@gmail.com](mailto:twkiiim@gmail.com)
+### 이전 블로그 (Classmethod 에서 작성했던 기술 블로그)
+[![](/images/devio-profile-page.png)](https://dev.classmethod.jp/author/kim-taewoo/)
